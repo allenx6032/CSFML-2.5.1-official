@@ -5,5 +5,5 @@
 + 32G Ram
 + I5-10400F
 
-## Fix clang compiler SFML+CSFML error of implicit instantiation of undefined template 'std::char_traits<unsigned int>
+## Fix clang compiled SFML+CSFML error of implicit instantiation of undefined template 'std::char_traits<unsigned int>
 ## END
